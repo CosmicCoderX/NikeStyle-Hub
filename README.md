@@ -1,4 +1,3 @@
-#NikeStyle-Hub | Ecommerce website
 # NikeStyle Hub 🚀  
 
 A modern, responsive e-commerce website for Nike shoes built with pure HTML, CSS, and JavaScript.
