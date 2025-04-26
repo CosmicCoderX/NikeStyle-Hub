@@ -1,4 +1,4 @@
-# NikeStyle Hub - E-Commerce Website 👟
+# NikeStyle Hub | E-Commerce Website 👟
 
 ![Home Banner](https://github.com/user-attachments/assets/ae9e2ecf-383d-4ac5-bed1-329793a7fc53)
 
